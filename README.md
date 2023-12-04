@@ -1,4 +1,4 @@
-- 👋 Hi, I’m <h1>@Sri OM Sharan</h1>
+- <h1>👋 Hi,</h1> I’m @Sri OM Sharan
 - 👀 I’m interested in <h2>Frontend Development</h2>
 🌱 I’m currently learning-
  <ul>
