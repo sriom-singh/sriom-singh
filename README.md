@@ -1,5 +1,5 @@
-- <h1>👋 Hi,</h1> I’m @Sri OM Sharan
-- 👀 I’m interested in <h2>Frontend Development</h2>
+- <h1>👋 Hii,</h1> I’m @Sri OM Sharan
+- 👀 I’m interested in <h2>Frontend Development and UI/UX Designer</h2> using Figma
 🌱 I’m currently learning-
  <ul>
   <li>HTML</li>
